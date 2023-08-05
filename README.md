@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966)](https://bewithsnehasish.github.io/My-Portfolio.github.io/)
 <h1 align="center">Hi 👋,This is Snehasish Mandal</h1>
 <h3 align="center">A passionate FullStack Developer | Java + DSA(Problem Solver) from India</h3>
-<img align="right" width="400" alt="Coding" src="https://shorturl.at/vxJMX">
+<img align="right" width="400" alt="Coding" src="https://shorturl.at/eopMX">
 
 # 💫 About Me:
 🔭 I'm Currently pursuing Undergrad in B.tech CSE from Lovely Professional University,INDIA.<br>🌱 I’m currently learning Full Stack Web Development.<br>💬 Ask me about MEARN, Java + DSA.<br>📫 How to reach me mandalsneh97@gmail.com<br>⚡ Fun fact I think I can adapt myself anywhere and make my surroundings people and everyone happy...
@@ -23,6 +23,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=bewithsnehasish&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
+<img align="right" width="400" alt="Coding" src="https://shorturl.at/vxJMX">
 ---
 [![](https://visitcount.itsvg.in/api?id=bewithsnehasish&icon=7&color=7)](https://visitcount.itsvg.in)
 
