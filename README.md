@@ -17,13 +17,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bewithsnehasish&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bewithsnehasish&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<img align="right" width="400" alt="Coding" src="https://shorturl.at/vxJMX">
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=bewithsnehasish&limit=5&theme=algolia&combine_all_yearly_contributions=true)
 
-<img align="right" width="400" alt="Coding" src="https://shorturl.at/vxJMX">
 ---
 [![](https://visitcount.itsvg.in/api?id=bewithsnehasish&icon=7&color=7)](https://visitcount.itsvg.in)
 
