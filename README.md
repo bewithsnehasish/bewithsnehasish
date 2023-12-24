@@ -28,7 +28,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=bewithsnehasish&icon=7&color=7)](https://visitcount.itsvg.in)
 
-
+<!--
 **bewithsnehasish/bewithsnehasish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate in making sub-groups and learn together
 - 💬 Ask me about collaborations & advice or help regarding any projects
 - 📫 How to reach me: mandalsneh97@gmail.com
-<!--
+
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
