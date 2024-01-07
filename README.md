@@ -1,7 +1,7 @@
-[![MasterHead](https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966)](https://bewithsnehasish.github.io/My-Portfolio.github.io/)
+[![MasterHead](Assets/bannerheadgithub.png)](https://bewithsnehasish.github.io/My-Portfolio.github.io/)
 <h1 align="center">Hi 👋,This is Snehasish Mandal</h1>
 <h3 align="center">A passionate FullStack Developer | Java + DSA(Problem Solver) from India</h3>
-<img align="right" width="400" alt="Coding" src="https://shorturl.at/eopMX">
+<img align="right" width="400" alt="Coding" src="Assets/soloimage.gif">
 
 # 💫 About Me:
 🔭 I'm Currently pursuing Undergrad in B.tech CSE from Lovely Professional University,INDIA.<br>🌱 I’m currently learning Full Stack Web Development.<br>💬 Ask me about MEARN, Java + DSA.<br>📫 How to reach me mandalsneh97@gmail.com<br>⚡ Fun fact I think I can adapt myself anywhere and make my surroundings people and everyone happy...
@@ -13,7 +13,7 @@
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 # 📊 GitHub Stats:
-<img align="right" width="350" alt="Coding" style="border-radius:50%" src="https://shorturl.at/vxJMX">
+<img align="right" width="350" alt="Coding" style="border-radius:50%" src="Assets/side image.gif">
 
 ![](https://github-readme-stats.vercel.app/api?username=bewithsnehasish&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bewithsnehasish&theme=highcontrast&hide_border=false)<br/>
