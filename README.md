@@ -1,10 +1,11 @@
-[![MasterHead](Assets/image gitub.gif)](https://bewithsnehasish.github.io/My-Portfolio.github.io/)
+[![MasterHead](Assets/image%20gitub.gif)](https://bewithsnehasish.github.io/My-Portfolio.github.io/)
 <h1 align="center">Hi 👋,This is Snehasish Mandal</h1>
 <h3 align="center">A passionate FullStack Developer | Java + DSA(Problem Solver) from India</h3>
 <img align="right" width="400" alt="Coding" src="Assets/soloimage.gif">
 
 # 💫 About Me:
 🔭 I'm Currently pursuing Undergrad in B.tech CSE from Lovely Professional University,INDIA.<br>🌱 I’m currently learning Full Stack Web Development.<br>💬 Ask me about MEARN, Java + DSA.<br>📫 How to reach me mandalsneh97@gmail.com<br>⚡ Fun fact I think I can adapt myself anywhere and make my surroundings people and everyone happy...
+
 
 
 ## 🌐 Socials:
