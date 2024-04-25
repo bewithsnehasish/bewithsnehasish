@@ -1,4 +1,4 @@
-[![MasterHead](Assets/bannerheadgithub.png)](https://bewithsnehasish.github.io/My-Portfolio.github.io/)
+[![MasterHead](Assets/image gitub.gif)](https://bewithsnehasish.github.io/My-Portfolio.github.io/)
 <h1 align="center">Hi 👋,This is Snehasish Mandal</h1>
 <h3 align="center">A passionate FullStack Developer | Java + DSA(Problem Solver) from India</h3>
 <img align="right" width="400" alt="Coding" src="Assets/soloimage.gif">
