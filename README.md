@@ -29,18 +29,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=bewithsnehasish&icon=7&color=7)](https://visitcount.itsvg.in)
 
-<!--
-**bewithsnehasish/bewithsnehasish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<br clear="both">
 
-- 🔭 I’m currently working on myself learning new Technologies...
-- 🌱 I’m currently learning MERN Stack as DEV & Java for DSA
-- 👯 I’m looking to collaborate in making sub-groups and learn together
-- 💬 Ask me about collaborations & advice or help regarding any projects
-- 📫 How to reach me: mandalsneh97@gmail.com
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---!>
+###
