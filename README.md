@@ -1,10 +1,10 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Snehasish+Mandal!;" />
-</h1>
 <a href="https://bewithsnehasish.github.io/My-Portfolio.github.io/">
   <img src="Assets/image%20gitub.gif" alt="MasterHead" style="width: 100%;">
 </a>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Snehasish+Mandal!;" />
+</h1>
 
 <h3 align="center">A passionate FullStack Developer | Java + DSA(Problem Solver) from India</h3>
 <!-- <img align="right" width="400" alt="Coding" src="Assets/soloimage.gif"> -->
