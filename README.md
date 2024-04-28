@@ -85,15 +85,30 @@ Passionate aspiring software engineer with a strong focus on technology and prob
 
 ###
 
+<!-- <br/> -->
+<!-- <hr/> -->
+<!--  -->
+<!-- <div align="center"> -->
+  <!-- <h2>🐍 My Contributions 🐍</h2> -->
+  <!-- <br> -->
+  <!-- <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/bewithsnehasish/bewithsnehasish/output/github-contribution-grid-snake.gif" /> -->
+  <!--  -->
+  <!-- <br/> -->
+<!-- </div> -->
+<!--  -->
+<!-- <hr/> -->
+<!--  -->
+<!--  -->
+<!--  -->
 <br/>
 <hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/bewithsnehasish/bewithsnehasish/output/github-contribution-grid-snake.svg" />
-  
-  <br/>
+
+![snake gif](https://github.com/bewithsnehasish/bewithsnehasish/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 <hr/>
+
