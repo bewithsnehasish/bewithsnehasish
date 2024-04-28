@@ -1,10 +1,10 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Snehasish+Mandal!;" />
+</h1>
 <a href="https://bewithsnehasish.github.io/My-Portfolio.github.io/">
   <img src="Assets/image%20gitub.gif" alt="MasterHead" style="width: 100%;">
 </a>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Snehasish+Mandal!;" />
-</h1>
 
 <h3 align="center">A passionate FullStack Developer | Java + DSA(Problem Solver) from India</h3>
 <!-- <img align="right" width="400" alt="Coding" src="Assets/soloimage.gif"> -->
@@ -80,7 +80,7 @@ Passionate aspiring software engineer with a strong focus on technology and prob
 
 <a href="http://www.github.com/bewithsnehasish"><img align="right" width=390 height=270 src="https://github-readme-streak-stats.herokuapp.com/?user=bewithsnehasish&stroke=ffffff&background=22272e&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/bewithsnehasish" align="center"><img width=390 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" /></a>
+<a href="https://github.com/bewithsnehasish" align="center"><img width=390 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=bewithsnehasish&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" /></a>
 </div>
 
 ###
