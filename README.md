@@ -71,7 +71,6 @@ Passionate aspiring software engineer with a strong focus on technology and prob
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js,express,mongodb,nextjs,mysql,c,java,python,cpp" />
-    <!-- <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /> -->
     <br>
 </div>
 
@@ -83,3 +82,18 @@ Passionate aspiring software engineer with a strong focus on technology and prob
 
 <a href="https://github.com/bewithsnehasish" align="center"><img width=390 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" /></a>
 </div>
+
+###
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/bewithsnehasish/bewithsnehasish/output/github-contribution-grid-snake.svg" />
+  
+  <br/>
+</div>
+
+<hr/>
