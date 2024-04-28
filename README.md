@@ -100,15 +100,4 @@ Passionate aspiring software engineer with a strong focus on technology and prob
 <!--  -->
 <!--  -->
 <!--  -->
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-
 ![snake gif](https://github.com/bewithsnehasish/bewithsnehasish/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
-<hr/>
-
