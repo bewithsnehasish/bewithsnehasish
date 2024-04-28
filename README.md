@@ -70,7 +70,7 @@ Passionate aspiring software engineer with a strong focus on technology and prob
 <h2 align="center">⚒️ Languages-Frameworks ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js,express,mongodb,nextjs,mysql,c,java,python," />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,js,express,mongodb,nextjs,mysql,c,java,python,cpp" />
     <!-- <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /> -->
     <br>
 </div>
