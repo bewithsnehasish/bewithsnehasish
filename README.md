@@ -47,7 +47,7 @@ Passionate aspiring software engineer with a strong focus on technology and prob
   <a href="https://leetcode.com/u/bewithsnehasish/">
     <img src="https://img.shields.io/badge/LeetCode-333333?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" target="_blank" height="37" alt="Leetcode logo" />
   </a>
-  <a href="https://leetcode.com/u/bewithsnehasish/">
+  <a href="https://www.hackerrank.com/profile/bewithsnehasish">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
   <a href="https://bewithsnehasish.vercel.app" target="_blank">
